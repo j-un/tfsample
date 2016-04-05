@@ -16,7 +16,8 @@ aws_secret_key = "YOUR_AWS_SECRET_KEY"
 
 * replace this line with your IP address.
 ```
-$ grep -n replace base.tf                                                                                                              31:        cidr_blocks = ["xx.xx.xx.xx/32"]  # replace with your IP address.
+$ grep -n replace base.tf
+31:        cidr_blocks = ["xx.xx.xx.xx/32"]  # replace with your IP address.
 ```
 
 * replace this line with your aws key pair name.
