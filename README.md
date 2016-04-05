@@ -1,5 +1,6 @@
 # tfsample
 This is a terraform sample code, which deploy aws environment like this image.
+for detail, please read the code...
 
 ![image](https://github.com/j-un/tfsample/raw/master/tfsample.png)
 
